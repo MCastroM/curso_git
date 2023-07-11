@@ -1,0 +1,58 @@
+628	424	1	Cuentacuentos n avanzado.jpg	zx6Xx02g2d.jpg	jpg       	880137	2022-08-16 09:45:30
+629	424	1	Cuentacuentos n básico.jpg	uVPodWFVBm.jpg	jpg       	578609	2022-08-16 09:45:30
+630	424	1	Diplomado.jpg	bouqzCjfzF.jpg	jpg       	200426	2022-08-16 09:45:30
+631	425	1	Certificado de Coompetencias en Compras Públicas Nivel Intermedio 2022.pdf	ompgBW0z7Q.pdf	pdf       	402532	2022-08-16 10:38:43
+632	426	1	Curso Primeros Auxilio 2008.pdf	OrvMBDqmKK.pdf	pdf       	757947	2022-08-17 10:26:32
+633	427	1	Curso Primeros Auxilios 2009.pdf	dZxjEDh7vh.pdf	pdf       	333176	2022-08-17 10:27:03
+634	428	1	curso Riesgos Operacionales 2011.pdf	WCdOMrp4Mt.pdf	pdf       	429232	2022-08-17 10:27:30
+635	429	1	CERTIFICADO DE ACREDITACION.pdf	PNdIL3SxrO.pdf	pdf       	828984	2022-08-17 11:33:33
+636	430	1	003.jpg	vZxp9dGPLa.jpg	jpg       	180337	2022-08-17 11:56:41
+637	431	1	002.jpg	1Ipwv1jjEh.jpg	jpg       	178386	2022-08-17 11:59:05
+638	432	1	001.jpg	8JqVSdDms7.jpg	jpg       	239741	2022-08-17 12:01:13
+639	433	1	20.jpg	tmLBJXy2P6.jpg	jpg       	762975	2022-08-17 12:02:39
+640	434	1	21.jpg	1HSa8aIPwe.jpg	jpg       	491766	2022-08-17 14:57:09
+641	435	1	CURSO ESTATUTO ADMINISTRATIVO 2015.pdf	zYvvQaWEmX.pdf	pdf       	304513	2022-08-18 11:49:26
+642	436	1	CURSO PRIMEROS AUXILIOS INCLUYE RPC Y MANIOBRA DE HEIMLICH.pdf	IM6dDfMSSF.pdf	pdf       	216997	2022-08-18 11:51:24
+643	437	1	LIDERAZGO Y TRABAJO EN EQUIPO 2022.pdf	EEfGnarjfl.pdf	pdf       	272027	2022-08-18 11:52:36
+644	438	1	PSICOLOGIA DE LA EMERGENCIA 2015.pdf	ULfXC9okYM.pdf	pdf       	207516	2022-08-18 11:53:35
+648	442	1	Tutorial de autoaprendizaje nivel basico Mapuzugun.pdf	G2gtmOu11D.pdf	pdf       	524833	2022-08-19 11:23:34
+649	442	1	Liderazgo y trabajo en equipo.pdf	XCi7bGpX4N.pdf	pdf       	601851	2022-08-19 11:23:34
+650	443	1	Guillermo Torres (CERTIFICADO 1).pdf	8qSJQkNbXd.pdf	pdf       	99773	2022-08-19 12:28:53
+651	444	1	Guillermo Torres (CERTIFICADO 2).pdf	AFKxh812Tg.pdf	pdf       	127007	2022-08-19 12:29:51
+652	445	1	Guillermo Torres (Certificado 3).pdf	Zt0HGWKoeB.pdf	pdf       	103355	2022-08-19 12:30:48
+653	446	1	Taller Fomento Lector.pdf	7iTBLNx7tK.pdf	pdf       	611123	2022-08-22 19:21:36
+654	446	1	Diplomado en Edición UDP.pdf	g7YdT8Bwnx.pdf	pdf       	954909	2022-08-22 19:21:36
+655	446	1	Certificado FGSR.pdf	eIkTHT7uuY.pdf	pdf       	1019693	2022-08-22 19:21:36
+656	446	1	Curso Equipo de Protección Respiratoria.pdf	d5ViY5C7yM.pdf	pdf       	385271	2022-08-22 19:21:36
+657	446	1	Diplomado en Industrias Editoriales U.Pompeu Fabra.pdf	OsWguMZLwy.pdf	pdf       	984742	2022-08-22 19:21:36
+659	448	1	TALLER MANEJO INTEGRAL DE COLECCIONES 2014.pdf	Xak98Fmq0H.pdf	pdf       	636683	2022-08-24 09:29:35
+660	449	1	CursoClubes de Lectura.pdf	EZdbPWfWeE.pdf	pdf       	188848	2022-08-25 16:33:59
+661	450	1	CERTIFICADO DIPLOMADO.pdf	lnAhQSzHrJ.pdf	pdf       	150078	2022-08-25 16:39:52
+662	450	1	ContenidosLocales.pdf	GtkTkueOZj.pdf	pdf       	524324	2022-08-25 16:39:52
+663	451	1	CERTIFICADO HONORARIOS.jpeg	gyBhNS5SGa.jpeg	jpeg      	71335	2022-08-25 17:54:11
+664	452	1	Pantallazo evaluación segundo período no existe evaluación año 2015.docx	SAIPaIA2aM.docx	docx      	133726	2022-08-29 11:34:29
+665	452	1	Ev. período 2015-2016.pdf	0CwALMxuhi.pdf	pdf       	318774	2022-08-29 11:34:29
+666	453	1	Ev. período 2016-2017.pdf	4umLDEuRvQ.pdf	pdf       	317665	2022-08-29 11:35:48
+667	453	1	Pantallazo evaluación segundo período no existe evaluación año 2016.docx	sdEVsdpXbM.docx	docx      	131586	2022-08-29 11:35:48
+668	451	2	Rsp Obj Edith Bouryssieres Salazar.pdf	XRkRwEnv7Q.pdf	pdf       	1336551	2022-08-29 16:57:57
+669	454	1	Actualización AyA-14.pdf	inXzIuvxbi.pdf	pdf       	133787	2022-08-31 11:45:41
+670	454	1	Actualización Ficha de Datos Concurs... - Alejandra Graciela Esterio Astudillo.pdf	9jvpeVgRJW.pdf	pdf       	119441	2022-08-31 11:45:41
+671	456	1	certificado pasan bn.pdf	17GMmQOUpF.pdf	pdf       	156891	2022-08-31 14:56:57
+672	457	1	certificado titulo.pdf	uUFAYoRQVa.pdf	pdf       	179220	2022-08-31 14:59:21
+673	452	2	Rsp Obj 1 Alan Rebolledo Cabrera.pdf	fxznClA2Md.pdf	pdf       	80941	2022-09-01 16:15:41
+674	453	2	Rsp Obj 2 Alan Rebolledo Cabrera.pdf	Ut0ze0Vcyn.pdf	pdf       	78613	2022-09-01 16:16:42
+675	459	1	atencion de publico y reclamos.PDF	UaZ1ACzcuv.PDF	PDF       	437180	2022-09-02 13:36:11
+676	459	1	CERTIFICADO Contraloria Estatuto Administrativo.pdf	x7YGP9AYo7.pdf	pdf       	100977	2022-09-02 13:36:11
+677	459	1	CERTIFICADO Procedimientos Disciplinarios y Vehiculos Fiscales Contraloria.pdf	0tOEPtlnZ6.pdf	pdf       	101005	2022-09-02 13:36:11
+678	459	1	desempeño laboral efectivo.PDF	UbQHBGJswB.PDF	PDF       	286275	2022-09-02 13:36:11
+679	459	1	diplomado gestion de bibliotecas publicas.PDF	9O6YoxbNb4.PDF	PDF       	252800	2022-09-02 13:36:11
+680	460	1	inclusion y atencion de usuarios.pdf	EBq4SDYaJ4.pdf	pdf       	704740	2022-09-02 13:43:01
+681	460	1	Patron de nave menor.PDF	RhzGgqpQAj.PDF	PDF       	1346394	2022-09-02 13:43:01
+682	460	1	prezi y redes sociales.PDF	oq4PvpK6DY.PDF	PDF       	279813	2022-09-02 13:43:01
+683	460	1	ergonomia y primeros auxilios para serv de salud.PDF	JSjYM3drTl.PDF	PDF       	286725	2022-09-02 13:43:01
+684	461	1	Curso Ténico en Conducción.jpeg	LkqCzkyyQ2.jpeg	jpeg      	74687	2022-09-06 13:21:24
+685	462	1	Curso normativa de compras públicas e learning 2014.pdf	VzOMJHjfNa.pdf	pdf       	240302	2022-09-06 13:25:56
+686	463	1	Curso normativa de compras públicas mayo 2012.pdf	bs17g7ZoXv.pdf	pdf       	240240	2022-09-06 13:26:15
+687	464	1	Fabian Pérez G.jpeg	bi5LhmgIdS.jpeg	jpeg      	57572	2022-09-06 13:47:20
+688	465	1	DIPLOMA.pdf	4TO17IOAD8.pdf	pdf       	153301	2022-09-06 16:41:26
+689	465	1	IMG_20220906_152924765.jpg	YHeotiYpt0.jpg	jpg       	3451051	2022-09-06 16:41:26

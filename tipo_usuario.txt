@@ -1,0 +1,2 @@
+1	Funcionario
+2	Administrador
